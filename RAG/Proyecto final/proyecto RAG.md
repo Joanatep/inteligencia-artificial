@@ -95,7 +95,7 @@ No uses material con derechos que no puedas compartir en la entrega.
 Sugerencia de estructura (puedes variar nombres si el README lo explica):
 
 ```
-RAG/Proyecto final/rag-app/
+proyecto_final/rag-app/
   README.md
   requirements.txt
   .env.example
