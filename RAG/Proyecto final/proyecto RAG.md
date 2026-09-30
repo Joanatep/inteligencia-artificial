@@ -11,7 +11,7 @@ incrustar → indexar → recuperar top-k → generar respuesta anclada
 
 Este proyecto final consiste en **desarrollar un sistema RAG**. En este
 proyecto **sí vas a programar**. Trabajas en una carpeta nueva, por ejemplo
-`RAG/Proyecto final/rag-app/` (puedes nombrarla distinto si el README lo
+`proyecto_final/rag-app/` (puedes nombrarla distinto si el README lo
 documenta).
 
 Las notebooks `RAG/Notebooks/` (FastText + BERT extractivo) muestran una
@@ -218,7 +218,7 @@ local ni bolsa de palabras como backend de producción.
 
 ## Entrega
 
-1. Código en `RAG/Proyecto final/` (o la subcarpeta que documentes), con
+1. Código en `proyecto_final/`, con
    README, `requirements.txt` y `.env.example`.
 2. El corpus de ejemplo (o un enlace + instrucciones de descarga).
 3. Evidencias (capturas o un short screencast):
