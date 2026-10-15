@@ -110,12 +110,11 @@ No modifiques la notebook original del repositorio.
 
 ## Entrega
 
-1. Enlace de Colab (o el `.ipynb` modificado) con la corrida original y
-   la de blobs separados.
+1. Subir la notebook al repositorio de tareas.
 2. Capturas: scatter, Voronoi \(k = 5\), codo y silueta — **original** y
    **modificado** (8 figuras, o 4 pares).
 3. Los 5 centros y 5 `std` que usaste.
-4. Un breve reporte (media página) que responda:
+4. Un breve reporte (media página, en una celda de la misma notebook) que responda:
    - En los datos de Géron, ¿por qué el codo “prefiere” \(k = 4\) si
      `make_blobs` usó 5 centros?
    - Con tus blobs separados, ¿el codo y la silueta coinciden en el mismo
